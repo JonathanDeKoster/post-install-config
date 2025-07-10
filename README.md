@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Users
 - Configure SLAs
 - Configure Help Topics
-- Configure
+
 
 <h2>Configuration Steps</h2>
 

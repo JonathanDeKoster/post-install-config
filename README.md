@@ -30,20 +30,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 
-
-
-![OS Ticket PIS 1](https://github.com/user-attachments/assets/216f0685-df4e-4494-876d-6818e0788280)
-
 Configure Roles
 
 Admin Panel -> Agents -> Roles
 
 Supreme Admin
 
+![OS Ticket PIS 1](https://github.com/user-attachments/assets/216f0685-df4e-4494-876d-6818e0788280)
+
 
 ![OS Ticket PIS 2](https://github.com/user-attachments/assets/cbc58fde-6d0f-4588-81c8-63a8d9cc7f0e)
 
-![OS Ticket PIS 3](https://github.com/user-attachments/assets/055e8294-072d-46cc-8fe9-372d64b98a3d)
 
 Configure Departments   
 
@@ -52,7 +49,8 @@ Admin Panel -> Agents -> Departments
 SysAdmins
 
 
-![OS Ticket PIS 4](https://github.com/user-attachments/assets/2d2c4c28-be99-4a34-846c-9083bd56ce76)
+![OS Ticket PIS 3](https://github.com/user-attachments/assets/055e8294-072d-46cc-8fe9-372d64b98a3d)
+
 
 
 Configure Teams
@@ -61,15 +59,18 @@ Admin Panel -> Agents -> Teams
 
 Online Banking
 
+![OS Ticket PIS 4](https://github.com/user-attachments/assets/2d2c4c28-be99-4a34-846c-9083bd56ce76)
 
 
-![OS Ticket PIS 5](https://github.com/user-attachments/assets/2c644168-56bb-4cdb-bccd-15e12ca02978)
 
 Allow anyone to create tickets
 
 Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
 
 Registration Required: Require registration and login to create tickets 
+
+![OS Ticket PIS 5](https://github.com/user-attachments/assets/2c644168-56bb-4cdb-bccd-15e12ca02978)
+
 
 
 

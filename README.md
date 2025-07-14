@@ -67,7 +67,6 @@ Allow anyone to create tickets
 
 Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets)
 
-Registration Required: Require registration and login to create tickets 
 
 ![OS Ticket PIS 5](https://github.com/user-attachments/assets/2c644168-56bb-4cdb-bccd-15e12ca02978)
 

@@ -4,9 +4,33 @@
 
 # osTicket - Post-Install Configuration
 
-This tutorial outlines the **post-install configuration** of the open-source help desk ticketing system **osTicket**.  
+**Overview**
 
-It focuses on configuring roles, departments, teams, agents, users, SLAs, and help topics to get a production-ready environment.
+This project demonstrates the post-installation configuration of osTicket, focusing on preparing a production-ready help desk environment. The lab covers structuring users, agents, departments, and workflows to mirror real-world IT support operations.
+
+**Objective**
+
+Configure osTicket to support realistic help desk workflows by:
+
+- Defining roles and permissions
+
+- Organizing departments and teams
+
+- Creating agents and end users
+
+- Implementing SLAs and help topics to manage ticket flow and priority
+
+**What This Lab Covers**
+
+- Role-based access control configuration
+
+- Department and team structure design
+
+- Agent and user account management
+
+- SLA creation and priority handling
+
+- Help topic configuration to guide ticket routing
 
 ---
 
@@ -18,17 +42,6 @@ It focuses on configuring roles, departments, teams, agents, users, SLAs, and he
 
 **Operating System:** Windows 10 (21H2)
 
----
-
-## Post-Install Configuration Objectives
-
-- Configure **Roles**  
-- Configure **Departments**  
-- Configure **Teams**  
-- Configure **Agents**  
-- Configure **Users**  
-- Configure **SLAs**  
-- Configure **Help Topics**  
 
 ---
 
